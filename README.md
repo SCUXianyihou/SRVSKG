@@ -8,11 +8,11 @@ This repository contains the implementation for SRVSKG, a novel knowledge graph-
 ## Requirements
 
 - Python 3.8
-- Dependencies listed in `requirements.txt`
+- Dependencies listed in `requirement.txt`
 
 Install all required packages:
 ```
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
 ## Data Preparation
