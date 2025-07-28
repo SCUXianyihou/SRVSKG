@@ -24,10 +24,10 @@ Create the following folder structure and place your dataset files accordingly:
 ├── amazon-book/
 │   ├── train.txt        # Training data
 │   ├── test.txt         # Test data
-│   ├── valid.txt        # [Optional] Validation data
+│   ├── ua_triplets.npy  # ua_triplets
 │   └── kg_final.txt     # Knowledge graph triples
 └── yelp/
     ├── train.txt
     ├── test.txt
-    ├── valid.txt        # [Optional] 
+    ├── ua_triplets.npy
     └── kg_final.txt
